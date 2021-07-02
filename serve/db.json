@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "preco": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Lenovo",
+      "preco": 155.89
+    },
+    {
+      "id": 3,
+      "name": "Motorola A5",
+      "preco": 1005.89
+    }
+   
+  ]
+}
